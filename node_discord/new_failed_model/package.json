@@ -1,0 +1,36 @@
+{
+  "name": "maple.io",
+  "version": "1.0.0",
+  "engines": {
+    "node": "17.x"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^0.8.2",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "cheerio": "^1.0.0-rc.10",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.3.1",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34",
+    "request": "^2.88.2"
+  },
+  "description": "Input and Output of MapleStory.\r For discord Bot.",
+  "main": "deploy-commands.js",
+  "devDependencies": {
+    "aws-sdk": "^2.1036.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4season/maple.IO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4season/maple.IO/issues"
+  },
+  "homepage": "https://github.com/4season/maple.IO#readme"
+}
